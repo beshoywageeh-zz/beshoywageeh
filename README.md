@@ -1,13 +1,6 @@
-**
-
 # HI !
-
-**
-
 ## I'm Bishoy I'm Front-End Developer
-
 ## Work With Technology Like :
-
  - HTML
  -  CSS 
 	 - Sass
