@@ -3,6 +3,11 @@
 I,m fresh Graduated computer science student I work as a front end  web developer I work with most modern technologies and can work with Linux operating system
 
 ### Skills
+
+* ⚛ React Js
+* 👨‍💻 Laravel
+* SQL
+* 💻 HTML - CSS - JS
 HTML / CSS / JS / React Js / Laravel / SQL
 
 
