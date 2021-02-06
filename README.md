@@ -1,13 +1,25 @@
-### Hi there 👋, I'm Bishoy
-#### I am a web designer
-I,m fresh Graduated computer science student I work as a front end  web developer I work with most modern technologies and can work with Linux operating system
+## Hi I'm Bishoy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="7%">
 
-### Skills
+I'm fresh Graduated computer science student I work as a front end web developer I work with most modern technologies and can work with Linux operating system
 
-* ⚛ React Js
-* 👨‍💻 Laravel
-* SQL
-* 💻 HTML - CSS - JS
+:mailbox: Reach me out!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/beshoy-wageeh//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/besho.pixel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Hackathon_Dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://beshoywageeh.github.io/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/beshoywageeh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.link/lgs0bs)  
+[![Twitter Badge](https://img.shields.io/badge/-@Hackathon_Dev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Hackathon_Dev)](https://twitter.com/Hackathon_Dev)
+[![Linkedin Badge](https://img.shields.io/badge/beshoy-wageeh?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beshoy-wageeh/)
+[![Mail Badge](https://img.shields.io/badge/-beshoywageeh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:beshoywageeh2016@gmail.com)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=beshoywageeh)
 
+- 🔭 I’m currently working on **Jobzawii** (Professional Job search Platform).
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 📫 How to reach me: beshoywageeh2016@gmail.com
+
+#### Top Technologies
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![HTML Badge](https://img.shields.io/badge/-HTML-F0DB4F?style=for-the-badge&labelColor=black&logo=HTML&logoColor=F0DB4F)](#) 
+#### Bizness
+- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :email: beshoywageeh2016@gmail.com
